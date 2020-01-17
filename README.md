@@ -13,6 +13,6 @@ OUTPUTS:
 - Kyphosis: a factor with levels absent present indicating if a kyphosis (a type of deformation) was present after the operation.
 
 
-- Link to the dataset: https://www.kaggle.com/abbasit/kyphosis-dataset
+ Link to the dataset: https://www.kaggle.com/abbasit/kyphosis-dataset
 
-- Source: John M. Chambers and Trevor J. Hastie eds. (1992) Statistical Models in S, Wadsworth and Brooks/Cole, Pacific Grove, CA.
+Source: John M. Chambers and Trevor J. Hastie eds. (1992) Statistical Models in S, Wadsworth and Brooks/Cole, Pacific Grove, CA.
